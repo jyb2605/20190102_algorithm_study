@@ -13,7 +13,7 @@
 * success(20190108)
 
 
-### 연산자 끼워넣지
+### 연산자 끼워넣기
 * [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/problem/14888)
 * brute forece
 * success(20190108)
